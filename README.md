@@ -13,4 +13,4 @@ using Microsoft.Office.Interop.Excel; // needed to make an excel object in our c
 using Microsoft.Office.Interop.Word;
 
 Feel invited to discover his functions. Enjoy !:)
-![](images/DamianBusinessAPP.PNG)
+![](DamianClientAPP/images/DamianBusinessAPP.PNG)
