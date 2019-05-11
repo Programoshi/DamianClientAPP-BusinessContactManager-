@@ -1,0 +1,47 @@
+C:\Users\Damian\source\repos\DamianClientAPP\DamianClientAPP\bin\Debug\DamianClientAPP.exe.config
+C:\Users\Damian\source\repos\DamianClientAPP\DamianClientAPP\bin\Debug\DamianClientAPP.exe
+C:\Users\Damian\source\repos\DamianClientAPP\DamianClientAPP\bin\Debug\DamianClientAPP.pdb
+C:\Users\Damian\source\repos\DamianClientAPP\DamianClientAPP\obj\Debug\DamianClientAPP.csprojAssemblyReference.cache
+C:\Users\Damian\source\repos\DamianClientAPP\DamianClientAPP\obj\Debug\DamianClientAPP.Main.resources
+C:\Users\Damian\source\repos\DamianClientAPP\DamianClientAPP\obj\Debug\DamianClientAPP.Properties.Resources.resources
+C:\Users\Damian\source\repos\DamianClientAPP\DamianClientAPP\obj\Debug\DamianClientAPP.csproj.GenerateResource.cache
+C:\Users\Damian\source\repos\DamianClientAPP\DamianClientAPP\obj\Debug\DamianClientAPP.csproj.CoreCompileInputs.cache
+C:\Users\Damian\source\repos\DamianClientAPP\DamianClientAPP\obj\Debug\DamianClientAPP.exe
+C:\Users\Damian\source\repos\DamianClientAPP\DamianClientAPP\obj\Debug\DamianClientAPP.pdb
+C:\Users\Damian\source\repos\DamianClientAPP\DamianClientAPP\obj\Debug\DamianClientAPP.BizContacts.resources
+C:\Users\Damian\source\repos\DamianClientAPP\DamianClientAPP\bin\Debug\DamianClientAPP.exe.manifest
+C:\Users\Damian\source\repos\DamianClientAPP\DamianClientAPP\bin\Debug\DamianClientAPP.application
+C:\Users\Damian\source\repos\DamianClientAPP\DamianClientAPP\obj\Debug\DamianClientAPP.exe.manifest
+C:\Users\Damian\source\repos\DamianClientAPP\DamianClientAPP\obj\Debug\DamianClientAPP.application
+C:\Users\Damian\source\repos\DamianClientAPP\DamianClientApp read without Excel (prepared to end)\DamianClientAPP\DamianClientAPP\bin\Debug\DamianClientAPP.exe.config
+C:\Users\Damian\source\repos\DamianClientAPP\DamianClientApp read without Excel (prepared to end)\DamianClientAPP\DamianClientAPP\bin\Debug\DamianClientAPP.exe.manifest
+C:\Users\Damian\source\repos\DamianClientAPP\DamianClientApp read without Excel (prepared to end)\DamianClientAPP\DamianClientAPP\bin\Debug\DamianClientAPP.application
+C:\Users\Damian\source\repos\DamianClientAPP\DamianClientApp read without Excel (prepared to end)\DamianClientAPP\DamianClientAPP\bin\Debug\DamianClientAPP.exe
+C:\Users\Damian\source\repos\DamianClientAPP\DamianClientApp read without Excel (prepared to end)\DamianClientAPP\DamianClientAPP\bin\Debug\DamianClientAPP.pdb
+C:\Users\Damian\source\repos\DamianClientAPP\DamianClientApp read without Excel (prepared to end)\DamianClientAPP\DamianClientAPP\obj\Debug\DamianClientAPP.csprojAssemblyReference.cache
+C:\Users\Damian\source\repos\DamianClientAPP\DamianClientApp read without Excel (prepared to end)\DamianClientAPP\DamianClientAPP\obj\Debug\DamianClientAPP.BizContacts.resources
+C:\Users\Damian\source\repos\DamianClientAPP\DamianClientApp read without Excel (prepared to end)\DamianClientAPP\DamianClientAPP\obj\Debug\DamianClientAPP.Main.resources
+C:\Users\Damian\source\repos\DamianClientAPP\DamianClientApp read without Excel (prepared to end)\DamianClientAPP\DamianClientAPP\obj\Debug\DamianClientAPP.Properties.Resources.resources
+C:\Users\Damian\source\repos\DamianClientAPP\DamianClientApp read without Excel (prepared to end)\DamianClientAPP\DamianClientAPP\obj\Debug\DamianClientAPP.csproj.GenerateResource.cache
+C:\Users\Damian\source\repos\DamianClientAPP\DamianClientApp read without Excel (prepared to end)\DamianClientAPP\DamianClientAPP\obj\Debug\DamianClientAPP.csproj.CoreCompileInputs.cache
+C:\Users\Damian\source\repos\DamianClientAPP\DamianClientApp read without Excel (prepared to end)\DamianClientAPP\DamianClientAPP\obj\Debug\DamianClientAPP.exe.manifest
+C:\Users\Damian\source\repos\DamianClientAPP\DamianClientApp read without Excel (prepared to end)\DamianClientAPP\DamianClientAPP\obj\Debug\DamianClientAPP.application
+C:\Users\Damian\source\repos\DamianClientAPP\DamianClientApp read without Excel (prepared to end)\DamianClientAPP\DamianClientAPP\obj\Debug\DamianClientAPP.exe
+C:\Users\Damian\source\repos\DamianClientAPP\DamianClientApp read without Excel (prepared to end)\DamianClientAPP\DamianClientAPP\obj\Debug\DamianClientAPP.pdb
+C:\Users\Damian\source\repos\DamianClientAPP\DamianClientApp read without Excel (prepared to end)\DamianClientAPP\DamianClientAPP\obj\Debug\DamianClientAPP.csproj.ResolveComReference.cache
+C:\Users\Damian\source\repos\DamianClientAPP\DamianBusinessAPP\DamianClientAPP\DamianClientAPP\bin\Debug\DamianClientAPP.exe.config
+C:\Users\Damian\source\repos\DamianClientAPP\DamianBusinessAPP\DamianClientAPP\DamianClientAPP\bin\Debug\DamianClientAPP.exe.manifest
+C:\Users\Damian\source\repos\DamianClientAPP\DamianBusinessAPP\DamianClientAPP\DamianClientAPP\bin\Debug\DamianClientAPP.application
+C:\Users\Damian\source\repos\DamianClientAPP\DamianBusinessAPP\DamianClientAPP\DamianClientAPP\bin\Debug\DamianClientAPP.exe
+C:\Users\Damian\source\repos\DamianClientAPP\DamianBusinessAPP\DamianClientAPP\DamianClientAPP\bin\Debug\DamianClientAPP.pdb
+C:\Users\Damian\source\repos\DamianClientAPP\DamianBusinessAPP\DamianClientAPP\DamianClientAPP\obj\Debug\DamianClientAPP.csprojAssemblyReference.cache
+C:\Users\Damian\source\repos\DamianClientAPP\DamianBusinessAPP\DamianClientAPP\DamianClientAPP\obj\Debug\DamianClientAPP.csproj.ResolveComReference.cache
+C:\Users\Damian\source\repos\DamianClientAPP\DamianBusinessAPP\DamianClientAPP\DamianClientAPP\obj\Debug\DamianClientAPP.BizContacts.resources
+C:\Users\Damian\source\repos\DamianClientAPP\DamianBusinessAPP\DamianClientAPP\DamianClientAPP\obj\Debug\DamianClientAPP.Main.resources
+C:\Users\Damian\source\repos\DamianClientAPP\DamianBusinessAPP\DamianClientAPP\DamianClientAPP\obj\Debug\DamianClientAPP.Properties.Resources.resources
+C:\Users\Damian\source\repos\DamianClientAPP\DamianBusinessAPP\DamianClientAPP\DamianClientAPP\obj\Debug\DamianClientAPP.csproj.GenerateResource.cache
+C:\Users\Damian\source\repos\DamianClientAPP\DamianBusinessAPP\DamianClientAPP\DamianClientAPP\obj\Debug\DamianClientAPP.csproj.CoreCompileInputs.cache
+C:\Users\Damian\source\repos\DamianClientAPP\DamianBusinessAPP\DamianClientAPP\DamianClientAPP\obj\Debug\DamianClientAPP.exe.manifest
+C:\Users\Damian\source\repos\DamianClientAPP\DamianBusinessAPP\DamianClientAPP\DamianClientAPP\obj\Debug\DamianClientAPP.application
+C:\Users\Damian\source\repos\DamianClientAPP\DamianBusinessAPP\DamianClientAPP\DamianClientAPP\obj\Debug\DamianClientAPP.exe
+C:\Users\Damian\source\repos\DamianClientAPP\DamianBusinessAPP\DamianClientAPP\DamianClientAPP\obj\Debug\DamianClientAPP.pdb
