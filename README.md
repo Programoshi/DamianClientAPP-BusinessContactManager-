@@ -1,5 +1,5 @@
 # DamianClientAPP-BusinessContactManager-
-This application has been connected with MYSQL database with use LINQ.
+This application has been connected with MYSQL database with using LINQ.
 How to add connect APP with Databse with LINQ :click project in visual studio Taskbar>add>new item>linq to sql>object
 Some special features:
 -you can save a profile with or without a photo,
